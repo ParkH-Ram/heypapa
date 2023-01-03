@@ -2,11 +2,10 @@ package hongong;
 
 public class Child extends Parent {
 	
-	//ÇÊµå ¼±¾ð
 	public String field2;
 
 
-	//¸Þ¼Òµå ¼±¾ð
+	//ï¿½Þ¼Òµï¿½ ï¿½ï¿½ï¿½ï¿½
 	public void method3() {
 		System.out.println("Child-method3()");
 		
